@@ -1,2 +1,2 @@
 # Server-Monitoring
-for JX3
+用python写的剑侠情缘三的开服监控
